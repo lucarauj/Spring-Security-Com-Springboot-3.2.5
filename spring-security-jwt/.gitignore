@@ -1,0 +1,8 @@
+mvnw
+mvnw.cmd
+HELP.md
+target/
+.mvn
+!**/src/main/**/target/
+!**/src/test/**/target/
+.idea
